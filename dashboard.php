@@ -82,8 +82,7 @@ $("#calendar").datepicker();
         $("#message").val(name).focus();
     });
 </script>
-
-
+    
 <div class="box box-success"><div class="box-header"><i class="fa fa-comments-o"></i>
 <h3 class="box-title">Общий чат</h3><div class="box-tools pull-right"><div class="btn-group" >
 <a onclick="window.location.reload()" ><button type="button"  data-toggle="tooltip" title="Обновить ленту" class="btn btn-default btn-sm"><i class="fa fa-refresh"></i></button></a>
